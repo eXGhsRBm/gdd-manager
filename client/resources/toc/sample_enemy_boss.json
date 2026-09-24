@@ -1,0 +1,10 @@
+{
+  "id": "enemy_boss",
+  "sections": [
+    "archetypes",
+    "bosses",
+    "ai",
+    "spawn",
+    "rewards"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "core_loop",
+  "sections": [
+    "core_loop",
+    "micro_loop",
+    "macro_loop",
+    "rewards"
+  ]
+}

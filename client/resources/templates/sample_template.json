@@ -1,0 +1,222 @@
+{
+  "categories": [
+    {
+      "id": "concept",
+      "border": "#6c8ebf"
+    },
+    {
+      "id": "design",
+      "border": "#82b366"
+    },
+    {
+      "id": "content",
+      "border": "#d79b00"
+    },
+    {
+      "id": "tech",
+      "border": "#9673a6"
+    },
+    {
+      "id": "prod",
+      "border": "#d6b656"
+    },
+    {
+      "id": "liveops",
+      "border": "#b85450"
+    }
+  ],
+  "documents": [
+    {
+      "id": "high_concept",
+      "category": "concept",
+      "stage": "concept"
+    },
+    {
+      "id": "one_pager",
+      "category": "concept",
+      "stage": "concept"
+    },
+    {
+      "id": "pitch_deck",
+      "category": "concept",
+      "stage": "concept"
+    },
+    {
+      "id": "vision_doc",
+      "category": "concept",
+      "stage": "concept"
+    },
+    {
+      "id": "vertical_slice",
+      "category": "concept",
+      "stage": "concept"
+    },
+    {
+      "id": "core_loop",
+      "category": "design",
+      "stage": "concept"
+    },
+    {
+      "id": "production_plan",
+      "category": "prod",
+      "stage": "concept"
+    },
+    {
+      "id": "gdd",
+      "category": "design",
+      "stage": "pre-production"
+    },
+    {
+      "id": "fdd",
+      "category": "design",
+      "stage": "pre-production"
+    },
+    {
+      "id": "narrative",
+      "category": "content",
+      "stage": "pre-production"
+    },
+    {
+      "id": "character",
+      "category": "content",
+      "stage": "pre-production"
+    },
+    {
+      "id": "world",
+      "category": "content",
+      "stage": "pre-production"
+    },
+    {
+      "id": "tdd",
+      "category": "tech",
+      "stage": "pre-production"
+    },
+    {
+      "id": "art_bible",
+      "category": "prod",
+      "stage": "pre-production"
+    },
+    {
+      "id": "audio_bible",
+      "category": "prod",
+      "stage": "pre-production"
+    },
+    {
+      "id": "monetization",
+      "category": "liveops",
+      "stage": "pre-production"
+    },
+    {
+      "id": "combat_design",
+      "category": "design",
+      "stage": "production"
+    },
+    {
+      "id": "progression",
+      "category": "design",
+      "stage": "production"
+    },
+    {
+      "id": "economy",
+      "category": "design",
+      "stage": "production"
+    },
+    {
+      "id": "difficulty",
+      "category": "design",
+      "stage": "production"
+    },
+    {
+      "id": "level_design",
+      "category": "content",
+      "stage": "production"
+    },
+    {
+      "id": "enemy_boss",
+      "category": "content",
+      "stage": "production"
+    },
+    {
+      "id": "quest_design",
+      "category": "content",
+      "stage": "production"
+    },
+    {
+      "id": "cinematic",
+      "category": "content",
+      "stage": "production"
+    },
+    {
+      "id": "server_arch",
+      "category": "tech",
+      "stage": "production"
+    },
+    {
+      "id": "database",
+      "category": "tech",
+      "stage": "production"
+    },
+    {
+      "id": "ui_ux",
+      "category": "tech",
+      "stage": "production"
+    },
+    {
+      "id": "qa_plan",
+      "category": "prod",
+      "stage": "production"
+    },
+    {
+      "id": "localization",
+      "category": "prod",
+      "stage": "production"
+    },
+    {
+      "id": "legal",
+      "category": "liveops",
+      "stage": "launch"
+    },
+    {
+      "id": "marketing",
+      "category": "liveops",
+      "stage": "launch"
+    },
+    {
+      "id": "analytics",
+      "category": "tech",
+      "stage": "live"
+    },
+    {
+      "id": "liveops_plan",
+      "category": "liveops",
+      "stage": "live"
+    },
+    {
+      "id": "community",
+      "category": "liveops",
+      "stage": "live"
+    }
+  ],
+  "stages": [
+    {
+      "id": "concept",
+      "border": "#6c8ebf"
+    },
+    {
+      "id": "pre-production",
+      "border": "#82b366"
+    },
+    {
+      "id": "production",
+      "border": "#d79b00"
+    },
+    {
+      "id": "launch",
+      "border": "#9673a6"
+    },
+    {
+      "id": "live",
+      "border": "#b85450"
+    }
+  ]
+}

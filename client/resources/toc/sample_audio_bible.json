@@ -1,0 +1,10 @@
+{
+  "id": "audio_bible",
+  "sections": [
+    "music",
+    "sfx",
+    "voice",
+    "atmosphere",
+    "references"
+  ]
+}

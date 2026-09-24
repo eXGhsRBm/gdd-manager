@@ -1,0 +1,11 @@
+{
+  "id": "narrative",
+  "sections": [
+    "story",
+    "setting",
+    "characters",
+    "dialogues",
+    "branches",
+    "endings"
+  ]
+}

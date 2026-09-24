@@ -1,0 +1,10 @@
+{
+  "id": "economy",
+  "sections": [
+    "currencies",
+    "resources",
+    "sources",
+    "sinks",
+    "balance"
+  ]
+}

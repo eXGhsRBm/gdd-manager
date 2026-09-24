@@ -1,0 +1,9 @@
+{
+  "id": "quest_design",
+  "sections": [
+    "quest_types",
+    "structure",
+    "rewards",
+    "branches"
+  ]
+}

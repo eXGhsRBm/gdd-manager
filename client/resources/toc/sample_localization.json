@@ -1,0 +1,9 @@
+{
+  "id": "localization",
+  "sections": [
+    "languages",
+    "texts",
+    "culture",
+    "fonts"
+  ]
+}

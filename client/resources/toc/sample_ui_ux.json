@@ -1,0 +1,11 @@
+{
+  "id": "ui_ux",
+  "sections": [
+    "hud",
+    "menus",
+    "inventory",
+    "map",
+    "accessibility",
+    "flow"
+  ]
+}

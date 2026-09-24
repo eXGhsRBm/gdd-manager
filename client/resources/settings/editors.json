@@ -1,0 +1,25 @@
+{
+  "editor_default": "VS Code",
+  "editors": [
+    {
+      "name": "VS Code",
+      "path": "C:/Program Files/Microsoft VS Code/Code.exe",
+      "args": "-g {file}:{line}"
+    },
+    {
+      "name": "Sublime Text",
+      "path": "C:/Program Files/Sublime Text/subl.exe",
+      "args": "{file}:{line}"
+    },
+    {
+      "name": "Notepad++",
+      "path": "C:/Program Files/Notepad++/notepad++.exe",
+      "args": "-n{line} {file}"
+    },
+    {
+      "name": "Windows Notepad",
+      "path": "C:/Windows/notepad.exe",
+      "args": "{file}"
+    }
+  ]
+}

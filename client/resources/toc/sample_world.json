@@ -1,0 +1,10 @@
+{
+  "id": "world",
+  "sections": [
+    "history",
+    "geography",
+    "factions",
+    "lore",
+    "maps"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "progression",
+  "sections": [
+    "levels",
+    "skills",
+    "equipment",
+    "progression_curve"
+  ]
+}

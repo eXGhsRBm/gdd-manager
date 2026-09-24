@@ -1,0 +1,10 @@
+{
+  "id": "one_pager",
+  "sections": [
+    "logline",
+    "genre",
+    "platforms",
+    "key_features",
+    "visual_style"
+  ]
+}

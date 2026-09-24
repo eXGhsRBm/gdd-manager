@@ -1,0 +1,10 @@
+{
+  "id": "character",
+  "sections": [
+    "main_hero",
+    "npcs",
+    "antagonists",
+    "arcs",
+    "references"
+  ]
+}

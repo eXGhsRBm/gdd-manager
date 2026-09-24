@@ -1,0 +1,11 @@
+{
+  "id": "legal",
+  "sections": [
+    "eula",
+    "tos",
+    "privacy",
+    "gdpr",
+    "coppa",
+    "ratings"
+  ]
+}

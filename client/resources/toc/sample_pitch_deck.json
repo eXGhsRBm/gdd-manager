@@ -1,0 +1,13 @@
+{
+  "id": "pitch_deck",
+  "sections": [
+    "title",
+    "problem",
+    "solution",
+    "market",
+    "demo",
+    "team",
+    "roadmap",
+    "request"
+  ]
+}

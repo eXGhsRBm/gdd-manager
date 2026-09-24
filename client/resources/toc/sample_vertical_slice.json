@@ -1,0 +1,8 @@
+{
+  "id": "vertical_slice",
+  "sections": [
+    "goals",
+    "content",
+    "acceptance_criteria"
+  ]
+}

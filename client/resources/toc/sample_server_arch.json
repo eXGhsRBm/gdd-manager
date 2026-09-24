@@ -1,0 +1,9 @@
+{
+  "id": "server_arch",
+  "sections": [
+    "scheme",
+    "services",
+    "load_balancing",
+    "scaling"
+  ]
+}

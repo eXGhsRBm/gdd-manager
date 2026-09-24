@@ -1,0 +1,9 @@
+{
+  "id": "cinematic",
+  "sections": [
+    "cinematic_types",
+    "scripts",
+    "storyboards",
+    "timing"
+  ]
+}

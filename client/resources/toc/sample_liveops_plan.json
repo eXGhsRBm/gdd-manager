@@ -1,0 +1,9 @@
+{
+  "id": "liveops_plan",
+  "sections": [
+    "seasons",
+    "events",
+    "updates",
+    "calendar"
+  ]
+}

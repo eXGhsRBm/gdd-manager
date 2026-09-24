@@ -1,0 +1,11 @@
+{
+  "id": "fdd",
+  "sections": [
+    "name",
+    "goal",
+    "description",
+    "action_change_feedback",
+    "dependencies",
+    "metrics"
+  ]
+}

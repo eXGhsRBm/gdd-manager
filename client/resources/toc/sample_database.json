@@ -1,0 +1,9 @@
+{
+  "id": "database",
+  "sections": [
+    "tables",
+    "relations",
+    "indexes",
+    "migrations"
+  ]
+}

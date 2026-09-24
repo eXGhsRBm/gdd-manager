@@ -1,0 +1,9 @@
+{
+  "id": "qa_plan",
+  "sections": [
+    "strategy",
+    "test_cases",
+    "bug_tracking",
+    "acceptance_criteria"
+  ]
+}

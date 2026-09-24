@@ -1,0 +1,12 @@
+{
+  "id": "high_concept",
+  "sections": [
+    "title",
+    "genre",
+    "platforms",
+    "target_audience",
+    "usp",
+    "key_features",
+    "references"
+  ]
+}

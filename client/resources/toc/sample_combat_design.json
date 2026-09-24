@@ -1,0 +1,10 @@
+{
+  "id": "combat_design",
+  "sections": [
+    "attack_types",
+    "defense",
+    "damage",
+    "balance",
+    "animations"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "level_design",
+  "sections": [
+    "level_list",
+    "layouts",
+    "goals",
+    "enemies",
+    "loot",
+    "narrative"
+  ]
+}

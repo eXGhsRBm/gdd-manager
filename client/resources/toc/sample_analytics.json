@@ -1,0 +1,9 @@
+{
+  "id": "analytics",
+  "sections": [
+    "metrics",
+    "events",
+    "dashboards",
+    "kpis"
+  ]
+}

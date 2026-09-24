@@ -1,0 +1,10 @@
+{
+  "id": "production_plan",
+  "sections": [
+    "milestones",
+    "team",
+    "budget",
+    "risks",
+    "schedule"
+  ]
+}

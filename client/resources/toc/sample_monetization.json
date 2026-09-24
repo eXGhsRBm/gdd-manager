@@ -1,0 +1,9 @@
+{
+  "id": "monetization",
+  "sections": [
+    "model",
+    "iap",
+    "pricing",
+    "funnel"
+  ]
+}
