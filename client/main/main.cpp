@@ -13,6 +13,8 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
 
+    a.setWindowIcon(QIcon(":/resources/icon/gdd-manager-icon.ico"));
+
     APP_DIR = QCoreApplication::applicationDirPath();
 
     Loader::extractIfMissing();

@@ -94,8 +94,12 @@ bool Loader::extractIfMissing()
         }
 
         const auto rel = fi.absoluteFilePath().mid(prefix.length());
-        const auto target = APP_DIR  + "/" + rel;
+        if (rel == "icon/gdd-manager-icon.ico")
+        {
+            continue;
+        }
 
+        const auto target = APP_DIR  + "/" + rel;
         if (QFile::exists(target))
         {
             continue;

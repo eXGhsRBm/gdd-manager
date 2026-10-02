@@ -1,0 +1,35 @@
+#include <windows.h>
+#include "version.h"
+
+VS_VERSION_INFO VERSIONINFO
+    FILEVERSION     VER_FILEVERSION
+        PRODUCTVERSION  VER_PRODUCTVERSION
+            FILEFLAGSMASK   0x3fL
+#ifdef _DEBUG
+    FILEFLAGS       0x1L    // VS_FF_DEBUG
+#else
+    FILEFLAGS       0x0L
+#endif
+    FILEOS          0x40004L // VOS_NT_WINDOWS32
+    FILETYPE        0x1L     // VFT_APP
+    FILESUBTYPE     0x0L
+    BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+    BLOCK "040904b0" // язык 0x0409 (англ.) + кодировка 1200 (Unicode)
+    BEGIN
+    VALUE "CompanyName",      STR_COMPANYNAME      "\0"
+    VALUE "FileDescription",  STR_FILEDESCRIPTION  "\0"
+    VALUE "FileVersion",      STR_FILEVERSION      "\0"
+    VALUE "InternalName",     STR_INTERNALNAME     "\0"
+    VALUE "LegalCopyright",   STR_LEGALCOPYRIGHT   "\0"
+    VALUE "OriginalFilename", STR_ORIGINALFILENAME "\0"
+    VALUE "ProductName",      STR_PRODUCTNAME      "\0"
+    VALUE "ProductVersion",   STR_PRODUCTVERSION   "\0"
+    END
+        END
+    BLOCK "VarFileInfo"
+    BEGIN
+    VALUE "Translation", 0x409, 1200
+    END
+    END

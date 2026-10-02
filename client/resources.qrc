@@ -46,5 +46,6 @@
         <file>resources/languages/ui/russian.json</file>
         <file>resources/languages/errors/english.json</file>
         <file>resources/languages/errors/russian.json</file>
+        <file>resources/icon/gdd-manager-icon.ico</file>
     </qresource>
 </RCC>

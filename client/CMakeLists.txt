@@ -100,6 +100,7 @@ set(MAIN_SOURCES
     ${MAIN_DIR}/mainwindow.cpp
     ${MAIN_DIR}/mainwindow.h
     ${MAIN_DIR}/mainwindow.ui
+    ${MAIN_DIR}/version.h
 )
 
 set(UTILS_SOURCES
@@ -137,7 +138,12 @@ qt_add_executable(client
     ${MAIN_SOURCES}
     ${UTILS_SOURCES}
     ${PROJECT_SOURCES}
+
+    app.rc
+    version.rc
 )
+
+set_target_properties(client PROPERTIES OUTPUT_NAME "gdd-manager")
 
 target_include_directories(client PRIVATE
     ${TEMPLATE_DIR}
